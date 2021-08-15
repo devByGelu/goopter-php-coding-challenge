@@ -1,0 +1,12 @@
+{
+	"credentials_path" : "credentials.json",
+	"token_path" :  "token.json",
+	"source_file_id": "1NMYHa_xejm9zrVvuqPdOtrQColJzT09aTNSukYTTdjU",
+	"source_file_target_sheet_names": [],
+	"source_file_name_column":"A",
+	"source_file_image_column":"B",
+	"source_file_read_start":"2",
+	"images_root_folder_id":"11PJEUZl8QmZlNSl23_AfF3cjxKa-wgJH",
+	"similarity_tolerance":"60",
+	"output_folder_id":"1CIBLZ2Mpb2_2WUEjAM93GtNferhyx3Km"
+}
