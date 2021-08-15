@@ -47,3 +47,6 @@ https://developers.google.com/drive/api/v3/quickstart/php
 | images_root_folder_id         | folder id where the subfolders containing the images reside.                                                                            |
 | similarity_tolerance          | If percentage result of in-built function similar_text is less than this entry, the product will not be associated with an image.       |
 | output_folder_id              | Where the associated images of the products are copied to.                                                                              |
+
+**SAMPLE OUTPUT**
+![image](https://user-images.githubusercontent.com/41291228/129488157-fb09ce4e-64b6-4280-b094-d4d63aa75d91.png)
