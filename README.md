@@ -32,8 +32,9 @@ https://developers.google.com/drive/api/v3/quickstart/php
 1. Install packages composer install
 2. Enable Drive + Sheets API from Google Cloud Console
 3. Make sure php-json is enabled
-4. Accomplish config.json
-5. Run php index.php
+4. Download credentials.json
+5. Accomplish config.json
+6. Run php index.php
 
 **config.json**
 |             CONFIG            |                                                               DESCRIPTION                                                               |
