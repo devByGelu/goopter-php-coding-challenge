@@ -1,6 +1,6 @@
 # goopter-php-coding-challenge
 **ABOUT THE PROJECT**
-
+_(Instructions sent by Mr.Michael Day)_
 The following google drive contains a google sheet file which contains a list of product name and image file name.
  https://drive.google.com/drive/folders/1Jde0kra1hzIH75sViQd4BtuON9PoxUKS?usp=sharing
 
